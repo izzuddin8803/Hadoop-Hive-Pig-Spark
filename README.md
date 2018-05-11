@@ -1,2 +1,2 @@
 # Hadoop-Hive-Pig-Spark
-MSimple application using Hadoop Hive, Pig and Spark on movie lense dataset
+Simple application using Hadoop Hive, Pig and Spark on movie lense dataset on MovieLense Dataset
